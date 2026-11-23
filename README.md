@@ -252,8 +252,8 @@ Os arquivos são gerados automaticamente em `data/` com codificação UTF-8 e se
 
 ## Equipe
 
-| Integrante   | GitHub                                      |
-| ------------ | ------------------------------------------- |
-| Pedro Costa  | [@](https://github.com/OCostaPedro)         |
-| Pedro Otavio | [@](https://github.com/PedroOGMS)           |
-| Diogo Araujo | [@](https://github.com/diogodeda1997-maker) |
+| Integrante   | GitHub                                                         |
+| ------------ | -------------------------------------------                    |
+| Pedro Costa  | [@](https://github.com/OCostaPedro) OCostaPedro                |
+| Pedro Otavio | [@](https://github.com/PedroOGMS) PedroOGMS                    |
+| Diogo Araujo | [@](https://github.com/diogodeda1997-maker) diogodeda1997-maker|
